@@ -7,5 +7,6 @@ public class TestGitHub {
 		System.out.println("hello , 0427");
 		System.out.println("hello2 , 这里是测试");
 		System.out.println("helloworld");
+		System.out.println("hello3 , 这里是测试2");
 	}
 }
